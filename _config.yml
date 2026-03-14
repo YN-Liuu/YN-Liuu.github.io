@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yanan Liu | Homepage"
+title                    : "Yanan Liu | Software Engineering Student"
 title_separator          : "-"
 name                     : &name "Ya Nan Liu"
 description              : &description "Undergraduate Student at Changchun University of Technology, College of Humanities & Information, China"
@@ -29,8 +29,13 @@ author:
   location         : "China"
   employer         : "CCUT Humanities & Info"
   uri              : # URL
-  phone            : "+86 17843165361"
+  phone            : " +86 17843165361"
   email            : "WNYN0618@gmail.com" 
+  skills:
+    - C++ / java 
+    - Data Structures
+    - Algorithm Design
+    - Web Development
 
   # Academic websites
 
